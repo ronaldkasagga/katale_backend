@@ -18,4 +18,8 @@ $this->menu=array(
 
 <h1>Update VendorComodity <?php echo $model->id; ?></h1>
 
-<?php $this->renderPartial('_form', array('model'=>$model)); ?>
+<?php $this->renderPartial('_form', array(
+    'model'=>$model,
+    'vendors'=>$vendors,
+    'comodities'=>$comodities,
+)); ?>

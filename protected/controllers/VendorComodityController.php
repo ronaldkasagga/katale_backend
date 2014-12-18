@@ -73,9 +73,13 @@ class VendorComodityController extends Controller
 			if($model->save())
 				$this->redirect(array('view','id'=>$model->id));
 		}
+        $comodities = Comodity::model()->findAll();
+        $vendors = Vendor::model()->findAll();
 
 		$this->render('create',array(
 			'model'=>$model,
+            'comodities'=>$comodities,
+            'vendors'=>$vendors,
 		));
 	}
 
@@ -97,10 +101,14 @@ class VendorComodityController extends Controller
 			if($model->save())
 				$this->redirect(array('view','id'=>$model->id));
 		}
+        $comodities = Comodity::model()->findAll();
+        $vendors = Vendor::model()->findAll();
 
-		$this->render('update',array(
-			'model'=>$model,
-		));
+        $this->render('update',array(
+            'model'=>$model,
+            'comodities'=>$comodities,
+            'vendors'=>$vendors,
+        ));
 	}
 
 	/**

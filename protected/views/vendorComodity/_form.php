@@ -21,7 +21,7 @@
 
 	<div class="row">
 		<?php echo $form->labelEx($model,'comodity_id'); ?>
-		<?php echo $form->textField($model,'comodity_id'); ?>
+		<?php echo $form->dropDownList($model,'comodity_id', CHtml::listData($comodities, 'id', 'name')); ?>
 		<?php echo $form->error($model,'comodity_id'); ?>
 	</div>
 
@@ -38,14 +38,8 @@
 	</div>
 
 	<div class="row">
-		<?php echo $form->labelEx($model,'last_updated'); ?>
-		<?php echo $form->textField($model,'last_updated'); ?>
-		<?php echo $form->error($model,'last_updated'); ?>
-	</div>
-
-	<div class="row">
 		<?php echo $form->labelEx($model,'vendor_id'); ?>
-		<?php echo $form->textField($model,'vendor_id'); ?>
+        <?php echo $form->dropDownList($model,'vendor_id', CHtml::listData($vendors, 'id', 'name')); ?>
 		<?php echo $form->error($model,'vendor_id'); ?>
 	</div>
 
