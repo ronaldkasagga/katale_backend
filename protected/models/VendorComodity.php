@@ -33,7 +33,7 @@ class VendorComodity extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('comodity_id, last_updated, vendor_id', 'required'),
+			array('comodity_id, vendor_id', 'required'),
 			array('comodity_id, quantity, vendor_id', 'numerical', 'integerOnly'=>true),
 			array('price', 'numerical'),
 			// The following rule is used by search().
@@ -106,8 +106,19 @@ class VendorComodity extends CActiveRecord
 	 * @param string $className active record class name.
 	 * @return VendorComodity the static model class
 	 */
+
 	public static function model($className=__CLASS__)
 	{
 		return parent::model($className);
 	}
+
+    public function beforeSave() {
+        if ($this->isNewRecord)
+            $this->last_updated = new CDbExpression('CURRENT_TIMESTAMP');
+        else
+            $this->last_updated = new CDbExpression('CURRENT_TIMESTAMP');
+
+        return parent::beforeSave();
+    }
+
 }
