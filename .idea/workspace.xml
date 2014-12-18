@@ -1,1010 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00f54543-849f-4b93-a4f7-4e1c579eb6b9" name="Default" comment="Merge branch 'master' of ssh://katale-sagas.rhcloud.com/~/git/katale&#10;&#10;Conflicts:&#10;&#9;index.php&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/captcha/SpicyRice.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/images/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/css/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/assets/gridview/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/rating/delete.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/assets/gridview/delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/assets/gridview/down.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/assets/listview/down.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancy_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancy_loading.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancy_nav_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancy_nav_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancy_shadow_e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancy_shadow_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancy_shadow_ne.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancy_shadow_nw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancy_shadow_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancy_shadow_se.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancy_shadow_sw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancy_shadow_w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancy_title_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancy_title_main.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancy_title_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancy_title_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancybox-x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancybox-y.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/fancybox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/images/file.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/images/folder-closed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/images/folder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/images/git-gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/commands/shell/git-gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/extensions/git-gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/messages/git-gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/migrations/git-gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/tests/fixtures/git-gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/tests/unit/git-gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/vendor/git-gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/themes/classic/views/layouts/git-gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/themes/classic/views/site/git-gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/themes/classic/views/system/git-gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/assets/hg-hgkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/images/hg-hgkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/commands/shell/hg-hgkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/extensions/hg-hgkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/messages/hg-hgkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/migrations/hg-hgkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/runtime/hg-hgkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/tests/fixtures/hg-hgkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/tests/report/hg-hgkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/tests/unit/hg-hgkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/vendor/hg-hgkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/themes/classic/views/layouts/hg-hgkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/themes/classic/views/site/hg-hgkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/themes/classic/views/system/hg-hgkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/autocomplete/indicator.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/assets/gridview/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/assets/listview/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/images/minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/images/plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/rating/star.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/data/testdrive.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/images/treeview-black-line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/images/treeview-black.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/images/treeview-default-line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/images/treeview-default.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/images/treeview-famfamfam-line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/images/treeview-famfamfam.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/images/treeview-gray-line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/images/treeview-gray.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/images/treeview-red-line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/images/treeview-red.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jui/css/base/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jui/css/base/images/ui-bg_flat_75_ffffff_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jui/css/base/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jui/css/base/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jui/css/base/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jui/css/base/images/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jui/css/base/images/ui-bg_glass_95_fef1ec_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jui/css/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jui/css/base/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jui/css/base/images/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jui/css/base/images/ui-icons_454545_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jui/css/base/images/ui-icons_888888_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jui/css/base/images/ui-icons_cd0a0a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/assets/gridview/up.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/assets/listview/up.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/assets/gridview/update.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/assets/gridview/view.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/module/templates/default/components/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/module/templates/default/messages/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/module/templates/default/models/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/module/templates/default/views/layouts/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/themes/classic/views/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/auth/CAccessControlFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/actions/CAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CActiveDataProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/ar/CActiveFinder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/CActiveForm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/ar/CActiveRecord.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/ar/CActiveRecordBehavior.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/base/CApplication.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/base/CApplicationComponent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CArrayDataProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CAssetManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/auth/CAuthAssignment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/auth/CAuthItem.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/auth/CAuthManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/CAutoComplete.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CBaseController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/CBaseListView.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/pagers/CBasePager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/auth/CBaseUserIdentity.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/base/CBehavior.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/CBreadcrumbs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/grid/CButtonColumn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CCacheHttpSession.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/captcha/CCaptcha.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/captcha/CCaptchaAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/grid/CCheckBoxColumn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CClientScript.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/CClipWidget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/CCodeFile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/CCodeForm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/CCodeGenerator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/CCodeModel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/base/CComponent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/CContentDecorator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/cubrid/CCubridColumnSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/cubrid/CCubridSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/cubrid/CCubridTableSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/grid/CDataColumn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CDataProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CDataProviderIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/auth/CDbAuthManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/CDbColumnSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/CDbCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/CDbCommandBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/CDbConnection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/CDbCriteria.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/CDbDataReader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/CDbException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/CDbExpression.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CDbHttpSession.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/CDbMigration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/CDbSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/CDbTableSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/CDbTransaction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/CDetailView.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/base/CErrorEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/base/CErrorHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/base/CException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/base/CExceptionEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CExtController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/filters/CFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/filters/CFilterChain.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/CFilterWidget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/CFlexWidget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/form/CForm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/form/CFormButtonElement.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/form/CFormElement.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/form/CFormElementCollection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/form/CFormInputElement.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CFormModel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/form/CFormStringElement.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/helpers/CGoogleApi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/grid/CGridColumn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/grid/CGridView.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/helpers/CHtml.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/CHtmlPurifier.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/filters/CHttpCacheFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CHttpCookie.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/base/CHttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CHttpRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CHttpSession.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CHttpSessionIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/actions/CInlineAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/filters/CInlineFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/CInputWidget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/helpers/CJSON.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/helpers/CJavaScript.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/helpers/CJavaScriptExpression.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/jui/CJuiAccordion.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/jui/CJuiAutoComplete.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/jui/CJuiButton.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/jui/CJuiDatePicker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/jui/CJuiDialog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/jui/CJuiDraggable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/jui/CJuiDroppable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/jui/CJuiInputWidget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/jui/CJuiProgressBar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/jui/CJuiResizable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/jui/CJuiSelectable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/jui/CJuiSlider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/jui/CJuiSliderInput.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/jui/CJuiSortable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/jui/CJuiTabs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/jui/CJuiWidget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/grid/CLinkColumn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/pagers/CLinkPager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/pagers/CListPager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/CListView.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/CMarkdown.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/CMaskedTextField.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/CMenu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/base/CModel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/base/CModelBehavior.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/base/CModelEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/base/CModule.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/mssql/CMssqlColumnSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/mssql/CMssqlCommandBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/mssql/CMssqlPdoAdapter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/mssql/CMssqlSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/mssql/CMssqlSqlsrvPdoAdapter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/mssql/CMssqlTableSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/CMultiFileUpload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/mysql/CMysqlColumnSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/mysql/CMysqlCommandBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/mysql/CMysqlSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/mysql/CMysqlTableSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/oci/COciColumnSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/oci/COciCommandBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/oci/COciSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/oci/COciTableSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/COutputCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/COutputEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/COutputProcessor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CPagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/pgsql/CPgsqlColumnSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/pgsql/CPgsqlCommandBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/pgsql/CPgsqlSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/pgsql/CPgsqlTableSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/auth/CPhpAuthManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/CPortlet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/renderers/CPradoViewRenderer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/base/CSecurityManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CSort.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CSqlDataProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/sqlite/CSqliteColumnSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/sqlite/CSqliteCommandBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/db/schema/sqlite/CSqliteSchema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/CStarRating.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/base/CStatePersister.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/CTabView.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/CTextHighlighter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CTheme.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CThemeManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/behaviors/CTimestampBehavior.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/CTreeView.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CUploadedFile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CUrlManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/auth/CUserIdentity.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/actions/CViewAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/renderers/CViewRenderer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CWebApplication.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CWebModule.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/services/CWebService.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/services/CWebServiceAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/auth/CWebUser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/CWidget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/CWidgetFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/services/CWsdlGenerator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/models/ContactForm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/models/ContactForm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/components/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/components/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/controller/ControllerCode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/commands/shell/ControllerCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/controller/ControllerGenerator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/crud/CrudCode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/commands/shell/CrudCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/crud/CrudGenerator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/module/controllers/DefaultController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/controllers/DefaultController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/module/templates/default/controllers/DefaultController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/components/Pear/Text/Diff.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/components/Pear/Text/Diff3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/form/FormCode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/commands/shell/FormCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/form/FormGenerator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/GiiModule.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/commands/shell/HelpCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/models/LoginForm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/models/LoginForm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/models/LoginForm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/components/Pear/Text/Diff/Mapped.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/commands/MessageCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/commands/MigrateCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/model/ModelCode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/commands/shell/ModelCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/model/ModelGenerator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/module/ModuleCode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/commands/shell/ModuleCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/module/ModuleGenerator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/components/Pear/Text/Diff/Renderer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/commands/ShellCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/controllers/SiteController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/controllers/SiteController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/tests/functional/SiteTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/tests/functional/SiteTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/captcha/SpicyRice.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/components/TextDiff.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/components/Pear/Text/Diff/ThreeWay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/components/UserIdentity.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/components/UserIdentity.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/components/UserIdentity.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/commands/WebAppCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/tests/WebTestCase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/tests/WebTestCase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/crud/_form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/crud/templates/default/_form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/crud/_search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/crud/templates/default/_search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/crud/_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/crud/templates/default/_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/aa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/aa_dj.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/aa_er.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/aa_et.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/views/site/pages/about.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/site/pages/about.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/form/action.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/form/templates/default/action.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/crud/admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/crud/templates/default/admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/af.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/af_na.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/af_za.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/agq.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ak.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ak_gh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/am.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/am_et.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_ae.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_bh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_dj.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_dz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_eg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_eh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_er.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_il.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_iq.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_jo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_km.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_kw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_lb.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_ly.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_ma.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_mr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_om.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_ps.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_qa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_sa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_sd.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_so.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_sy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_td.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_tn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ar_ye.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/as.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/as_in.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/asa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ast.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/az.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/az_az.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/az_ir.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/bas.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/be.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/be_by.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/bem.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/bez.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/bg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/bg_bg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/bm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/bm_ml.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/bn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/bn_bd.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/bn_in.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/bo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/bo_cn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/bo_in.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/tests/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/tests/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/br.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/br_fr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/brx.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/bs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/bs_ba.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/byn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ca.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ca_ad.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ca_es.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/cch.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/cgg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/chr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/views/common/code.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/views/layouts/column1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/views/layouts/column1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/layouts/column1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/views/layouts/column2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/layouts/column2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/config/console.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/config/console.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/views/site/contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/site/contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/components/Pear/Text/Diff/Renderer/context.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/controller/controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/crud/controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/controller/templates/default/controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/crud/templates/default/controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/crud/create.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/crud/templates/default/create.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/cs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/cs_cz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/cy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/cy_gb.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/da.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/da_dk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/config/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/config/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/dav.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/de.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/de_at.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/de_be.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/de_ch.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/de_de.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/de_li.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/de_lu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/views/common/diff.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/dje.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/dua.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/dv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/dv_mv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/dyo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/dz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/dz_bt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ebu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ee.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ee_gh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ee_tg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/el.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/el_cy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/el_gr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_ag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_as.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_au.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_bb.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_be.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_bm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_bs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_bw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_bz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_ca.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_cm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_dm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_fj.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_fm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_gb.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_gd.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_gg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_gh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_gi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_gm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_gu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_gy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_hk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_ie.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_im.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_in.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_je.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_jm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_ke.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_ki.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_kn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_ky.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_lc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_lr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_ls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_mg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_mh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_mp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_mt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_mu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_mw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_na.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_ng.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_nz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_pg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_ph.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_pk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_pr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_pw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_sb.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_sc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_sg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_sl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_ss.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_sz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_tc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_to.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_tt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_tz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_ug.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_um.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_us.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_vc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_vg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_vi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_vu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_ws.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_za.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_zm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_zw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/en_zz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/eo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/views/site/error.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/views/default/error.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/site/error.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_ar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_bo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_cl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_co.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_cr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_cu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_do.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_ea.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_ec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_es.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_gq.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_gt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_hn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_ic.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_mx.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_ni.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_pa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_pe.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_ph.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_pr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_py.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_sv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_us.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_uy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/es_ve.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/et.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/et_ee.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/eu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/eu_es.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ewo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fa_af.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fa_ir.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ff.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ff_sn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fi_fi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fil.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/model/fixture.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/views/flexWidget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fo_fo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/form.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/css/form.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/form/form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/form/templates/default/form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_be.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_bf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_bi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_bj.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_bl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_ca.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_cd.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_cf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_cg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_ch.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_ci.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_cm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_dj.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_dz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_fr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_ga.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_gf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_gn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_gp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_gq.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_ht.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_km.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_lu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_ma.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_mc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_mf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_mg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_ml.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_mq.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_mr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_mu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_nc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_ne.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_pf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_re.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_rw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_sc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_sn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_sy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_td.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_tg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_tn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_vu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fr_yt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/fur.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ga.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ga_ie.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/gaa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/gd.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/gd_gb.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/views/common/generator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/views/layouts/generator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/gez.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/assets/git-gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/runtime/git-gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/tests/report/git-gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/gl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/gl_es.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/gsw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/gu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/gu_in.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/guz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/gv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/gv_gb.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ha.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ha_gh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ha_ne.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ha_ng.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ha_sd.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/haw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/he.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/he_il.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/hg-hgignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/hi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/hi_in.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/hr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/hr_ba.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/hr_hr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/hu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/hu_hu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/hy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/hy_am.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ia.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ia_fr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/id.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/id_id.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ig.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ig_ng.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ii.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ii_cn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/in.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/index-test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/crud/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/module/views/default/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/views/site/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/controller/views/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/crud/templates/default/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/crud/views/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/form/views/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/model/views/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/module/templates/default/views/default/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/module/views/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/views/default/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/site/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/components/Pear/Text/Diff/Renderer/inline.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/base/interfaces.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/is.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/is_is.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/it.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/it_ch.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/it_it.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/it_sm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/iu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/iw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ja.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ja_jp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/jgo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/jmc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jui/js/jquery-ui-i18n.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jui/css/base/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jui/js/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.ajaxqueue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/autocomplete/jquery.autocomplete.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.autocomplete.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.ba-bbq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.ba-bbq.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.bgiframe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/jquery.fancybox-1.3.1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/fancybox/jquery.fancybox-1.3.1.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.history.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.maskedinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.maskedinput.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.metadata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.multifile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/rating/jquery.rating.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.rating.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.treeview.async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/treeview/jquery.treeview.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.treeview.edit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.treeview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.yii.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.yiiactiveform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/assets/gridview/jquery.yiigridview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/assets/listview/jquery.yiilistview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/yiitab/jquery.yiitab.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/jquery.yiitab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ka.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ka_ge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kab.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kaj.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kam.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kcg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kde.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kea.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kfo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/khq.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ki.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ki_ke.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kk_kz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kkj.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kl_gl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kln.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/km.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/km_kh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kn_in.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ko.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ko_kp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ko_kr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kok.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kpe.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ks.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ksb.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ksf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ksh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ku.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ku_iq.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ku_ir.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ku_sy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ku_tr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/kw_gb.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ky.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ky_kg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/lag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/lg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/lg_ug.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ln.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ln_ao.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ln_cd.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ln_cf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ln_cg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/lo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/lo_la.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/views/site/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/views/default/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/site/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/lt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/lt_lt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/lu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/lu_cd.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/luo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/luy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/lv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/lv_lv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/config/main.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/config/main.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/views/layouts/main.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/views/layouts/main.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/layouts/main.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mas.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mfe.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mg_mg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mgh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mgo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mi_nz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mk_mk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ml.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ml_in.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mn_cn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mn_mn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/model/model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/model/templates/default/model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/module/module.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/module/templates/default/module.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mr_in.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ms.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ms_bn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ms_my.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mt_mt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/mua.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/my.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/my_mm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/naq.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/components/Pear/Text/Diff/Engine/native.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nb.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nb_no.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nd.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nd_zw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nds.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ne.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ne_in.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ne_np.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nl_aw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nl_be.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nl_cw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nl_nl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nl_sr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nl_sx.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nmg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nn_no.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nnh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/no.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nr_za.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nso.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ny.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ny_mw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/nyn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/oc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/oc_fr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/om.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/om_et.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/om_ke.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/or.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/or_in.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/os.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/os_ge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/os_ru.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/pa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/pa_in.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/pa_pk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/packages.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/widgets/pagers/pager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/tests/phpunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/tests/phpunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/pl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/pl_pl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/css/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/css/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ps.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ps_af.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/pt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/pt_ao.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/pt_br.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/pt_cv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/pt_gw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/pt_mo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/pt_mz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/pt_pt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/pt_st.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/pt_tl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/punycode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/js/source/punycode.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/rm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/rm_ch.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/rn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/rof.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/root.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ru.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/rw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/rwk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/sa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/sah.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/saq.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/sbp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/auth/schema-cubrid.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/auth/schema-mssql.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/auth/schema-mysql.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/auth/schema-oci.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/auth/schema-pgsql.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/web/auth/schema-sqlite.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/data/schema.mysql.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/data/schema.mysql.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/data/schema.sqlite.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/data/schema.sqlite.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/se.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/seh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ses.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/sg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/sh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/components/Pear/Text/Diff/Engine/shell.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/shi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/si.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/sid.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/sk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/sl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/sn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/so.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/sq.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/sr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ss.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ssy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/st.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/components/Pear/Text/Diff/Engine/string.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/assets/detailview/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/assets/gridview/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/zii/widgets/assets/listview/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/sv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/sw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/swc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/syr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ta.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/te.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/teo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/config/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/crud/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/model/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/config/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/tg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/th.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ti.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/tig.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/tl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/tn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/to.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/assets/js/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/tr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/trv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/tt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/twq.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/tzm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ug.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/uk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/components/Pear/Text/Diff/Renderer/unified.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/crud/update.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/crud/templates/default/update.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ur.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/uz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/vai.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/ve.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/vi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/controller/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/shell/crud/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/controller/templates/default/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/generators/crud/templates/default/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/vo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/vun.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/wae.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/wal.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/wo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/gii/components/Pear/Text/Diff/Engine/xdiff.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/xh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/xog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/yav.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/yiic.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/yiic.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/yiic.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/yiic.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/yiic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/cli/views/webapp/protected/yiic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/yo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/zh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/framework/i18n/data/zu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    <list default="true" id="00f54543-849f-4b93-a4f7-4e1c579eb6b9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/controllers/UnitController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/unit/_form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/unit/_search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/unit/_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/unit/admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/unit/create.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/unit/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/unit/update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/unit/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/VendorComodity.php" afterPath="$PROJECT_DIR$/protected/models/VendorComodity.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/market/_form.php" afterPath="$PROJECT_DIR$/protected/views/market/_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/config/database.php" afterPath="$PROJECT_DIR$/protected/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="katale.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1027,28 +37,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="VendorComodityController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/controllers/VendorComodityController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="24" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="323">
+            <state line="106" column="29" selection-start="2788" selection-end="2788" vertical-scroll-proportion="-7.576923" vertical-offset="1605" max-vertical-offset="3179">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index-test.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index-test.php">
+      <file leaf-file-name="create.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/views/vendorComodity/create.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="52" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="357">
+            <state line="20" column="8" selection-start="444" selection-end="444" vertical-scroll-proportion="-12.153846" vertical-offset="24" max-vertical-offset="459">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="update.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/views/vendorComodity/update.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="189" selection-end="189" vertical-scroll-proportion="0.43256998" vertical-offset="0" max-vertical-offset="393">
+            <state line="23" column="21" selection-start="674" selection-end="674" vertical-scroll-proportion="-12.153846" vertical-offset="75" max-vertical-offset="510">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_form.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/views/vendorComodity/_form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="53" selection-start="1387" selection-end="1387" vertical-scroll-proportion="-13.076923" vertical-offset="357" max-vertical-offset="969">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VendorComodity.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/protected/models/VendorComodity.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="57" selection-start="1161" selection-end="1161" vertical-scroll-proportion="0.6021798" vertical-offset="459" max-vertical-offset="2074">
               <folding />
             </state>
           </provider>
@@ -1067,11 +95,26 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/protected/config/database.php" />
-        <option value="$PROJECT_DIR$/protected/config/main.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/index-test.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/protected/config/main.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/protected/config/database.php" />
+        <option value="$PROJECT_DIR$/protected/views/site/index.php" />
+        <option value="$PROJECT_DIR$/protected/views/comodity/_form.php" />
+        <option value="$PROJECT_DIR$/protected/views/market/_form.php" />
+        <option value="$PROJECT_DIR$/protected/controllers/ComodityController.php" />
+        <option value="$PROJECT_DIR$/protected/views/comodity/create.php" />
+        <option value="$PROJECT_DIR$/protected/views/comodity/update.php" />
+        <option value="$PROJECT_DIR$/protected/views/vendor/_form.php" />
+        <option value="$PROJECT_DIR$/protected/views/vendor/create.php" />
+        <option value="$PROJECT_DIR$/protected/views/vendor/update.php" />
+        <option value="$PROJECT_DIR$/protected/controllers/VendorController.php" />
+        <option value="$PROJECT_DIR$/protected/controllers/VendorComodityController.php" />
+        <option value="$PROJECT_DIR$/protected/views/vendorComodity/_form.php" />
+        <option value="$PROJECT_DIR$/protected/views/vendorComodity/update.php" />
+        <option value="$PROJECT_DIR$/protected/views/vendorComodity/create.php" />
+        <option value="$PROJECT_DIR$/protected/models/VendorComodity.php" />
       </list>
     </option>
   </component>
@@ -1140,6 +183,82 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="katale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="katale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="katale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="katale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="katale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="katale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="katale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="katale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -1189,13 +308,54 @@
       <created>1418831201396</created>
       <updated>1418831201396</updated>
     </task>
+    <task id="LOCAL-00001" summary="integrated yii framework">
+      <created>1418885237573</created>
+      <updated>1418885237573</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial configuration&#10;">
+      <created>1418885348903</created>
+      <updated>1418885348903</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed config errors">
+      <created>1418885702884</created>
+      <updated>1418885702884</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added models">
+      <created>1418886379432</created>
+      <updated>1418886379432</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added CRUD mechanism for models">
+      <created>1418886429426</created>
+      <updated>1418886429426</updated>
+    </task>
+    <task id="LOCAL-00006" summary="listing of units">
+      <created>1418887100468</created>
+      <updated>1418887100468</updated>
+    </task>
+    <task id="LOCAL-00007" summary="made units a drop down">
+      <created>1418887713938</created>
+      <updated>1418887713938</updated>
+    </task>
+    <task id="LOCAL-00008" summary="made units a drop down in update action">
+      <created>1418887864646</created>
+      <updated>1418887864646</updated>
+    </task>
+    <task id="LOCAL-00009" summary="changed market field in create and update views to a dropdown list">
+      <created>1418888086159</created>
+      <updated>1418888086159</updated>
+    </task>
+    <task id="LOCAL-00010" summary="changed vendor commodity vendor and commodity fields in create and update views to a dropdown list">
+      <created>1418888414627</created>
+      <updated>1418888414627</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32852563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32852563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1204,15 +364,15 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2613293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2613293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1227,12 +387,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
     <MESSAGE value="merge conflict&#10;" />
     <MESSAGE value="Merge branch 'master' of ssh://katale-sagas.rhcloud.com/~/git/katale&#10;&#10;Conflicts:&#10;&#9;index.php&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of ssh://katale-sagas.rhcloud.com/~/git/katale&#10;&#10;Conflicts:&#10;&#9;index.php&#10;" />
+    <MESSAGE value="integrated yii framework" />
+    <MESSAGE value="initial configuration&#10;" />
+    <MESSAGE value="fixed config errors" />
+    <MESSAGE value="Added models" />
+    <MESSAGE value="Added CRUD mechanism for models" />
+    <MESSAGE value="listing of units" />
+    <MESSAGE value="made units a drop down" />
+    <MESSAGE value="made units a drop down in update action" />
+    <MESSAGE value="changed market field in create and update views to a dropdown list" />
+    <MESSAGE value="changed vendor commodity vendor and commodity fields in create and update views to a dropdown list" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed vendor commodity vendor and commodity fields in create and update views to a dropdown list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1266,23 +438,142 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="24" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="323">
+        <state line="10" column="0" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index-test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="52" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="357">
+        <state line="10" column="52" selection-start="344" selection-end="344" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="306">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="189" selection-end="189" vertical-scroll-proportion="0.43256998" vertical-offset="0" max-vertical-offset="393">
+        <state line="10" column="0" selection-start="402" selection-end="402" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="46" selection-start="432" selection-end="432" vertical-scroll-proportion="0.65384614" vertical-offset="255" max-vertical-offset="1547">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="2" selection-start="363" selection-end="363" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="43" selection-start="237" selection-end="237" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/market/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="3" selection-start="518" selection-end="518" vertical-scroll-proportion="-1.3076923" vertical-offset="221" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/comodity/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="3" selection-start="524" selection-end="524" vertical-scroll-proportion="0.16621253" vertical-offset="194" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/ComodityController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="28" selection-start="2639" selection-end="2639" vertical-scroll-proportion="0.4441417" vertical-offset="1622" max-vertical-offset="3111">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/comodity/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="310" selection-end="390" vertical-scroll-proportion="0.78746593" vertical-offset="0" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/comodity/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="80" selection-start="597" selection-end="597" vertical-scroll-proportion="0.7220709" vertical-offset="75" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/vendor/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="47" selection-start="963" selection-end="963" vertical-scroll-proportion="0.5558583" vertical-offset="289" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/vendor/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="297" selection-end="381" vertical-scroll-proportion="0.78746593" vertical-offset="0" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/vendor/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="84" selection-start="584" selection-end="584" vertical-scroll-proportion="0.7220709" vertical-offset="75" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/VendorController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="31" selection-start="1998" selection-end="1998" vertical-scroll-proportion="0.5831063" vertical-offset="1129" max-vertical-offset="3111">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/VendorComodityController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="29" selection-start="2788" selection-end="2788" vertical-scroll-proportion="-7.576923" vertical-offset="1605" max-vertical-offset="3179">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/vendorComodity/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="21" selection-start="674" selection-end="674" vertical-scroll-proportion="-12.153846" vertical-offset="75" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/vendorComodity/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="8" selection-start="444" selection-end="444" vertical-scroll-proportion="-12.153846" vertical-offset="24" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/vendorComodity/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="53" selection-start="1387" selection-end="1387" vertical-scroll-proportion="-13.076923" vertical-offset="357" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/VendorComodity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="57" selection-start="1161" selection-end="1161" vertical-scroll-proportion="0.6021798" vertical-offset="459" max-vertical-offset="2074">
           <folding />
         </state>
       </provider>
