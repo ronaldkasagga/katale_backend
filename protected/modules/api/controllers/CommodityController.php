@@ -2,7 +2,7 @@
 
 class CommodityController extends Controller
 {
-	public function add()
+	public function actionAdd()
 	{
         $response = array('success'=>'ok');
         $commodity_d = Yii::app()->request->getParam('commodityId');
@@ -23,7 +23,7 @@ class CommodityController extends Controller
         Yii::app()->end();
 	}
 
-    public function update()
+    public function actionUpdate()
     {
         $response = array('success'=>'ok');
         $commodity_d = Yii::app()->request->getParam('commodityId');
