@@ -27,7 +27,7 @@
 
 	<div class="row">
 		<?php echo $form->labelEx($model,'market_id'); ?>
-		<?php echo $form->textField($model,'market_id'); ?>
+		<?php echo $form->dropDownList($model, 'market_id', $markets); ?>
 		<?php echo $form->error($model,'market_id'); ?>
 	</div>
 

@@ -73,9 +73,11 @@ class VendorController extends Controller
 			if($model->save())
 				$this->redirect(array('view','id'=>$model->id));
 		}
+        $markets = Market::model()->findAll();
 
 		$this->render('create',array(
 			'model'=>$model,
+            'markets'=>$markets
 		));
 	}
 
@@ -97,9 +99,11 @@ class VendorController extends Controller
 			if($model->save())
 				$this->redirect(array('view','id'=>$model->id));
 		}
+        $markets = Market::model()->findAll();
 
 		$this->render('update',array(
 			'model'=>$model,
+            'markets'=>$markets
 		));
 	}
 
