@@ -8,6 +8,7 @@ $this->pageTitle=Yii::app()->name;
 <p>
     <h3>Available Units</h3>
     <ul>
+        <li><?php echo CHtml::link('Units', array('/unit'))?></li>
         <li><?php echo CHtml::link('Comodities', array('/comodity'))?></li>
         <li><?php echo CHtml::link('Markets', array('/market'))?></li>
         <li><?php echo CHtml::link('Vendors', array('/vendor'))?></li>
