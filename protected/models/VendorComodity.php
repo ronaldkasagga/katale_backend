@@ -121,4 +121,11 @@ class VendorComodity extends CActiveRecord
         return parent::beforeSave();
     }
 
+    public function toArray(){
+        $commodity = $this->attributes;
+        unset($commodity['commodity_id']);
+        $commodity['commodity'] = $this->comodity->toArray();
+        return $commodity;
+    }
+
 }

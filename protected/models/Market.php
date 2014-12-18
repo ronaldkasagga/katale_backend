@@ -94,4 +94,14 @@ class Market extends CActiveRecord
 	{
 		return parent::model($className);
 	}
+
+    public function toArray(){
+        $market = $this->attributes;
+        if(isset($this->vendors) && (count($this->vendors) > 0)){
+            $market['vendors'] = array();
+            foreach($this->vendors as $vendor)
+                array_push($market['vendors'], $vendor->toArray());
+        }
+        return $market;
+    }
 }

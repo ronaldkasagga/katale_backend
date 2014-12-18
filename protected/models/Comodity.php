@@ -101,4 +101,12 @@ class Comodity extends CActiveRecord
 	{
 		return parent::model($className);
 	}
+
+    public function toArray()
+    {
+        $commodity =  $this->attributes;
+        unset($commodity['unit_id']);
+        $commodity['unit'] = $this->unit->name;
+        return $commodity;
+    }
 }

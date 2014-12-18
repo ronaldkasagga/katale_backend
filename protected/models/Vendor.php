@@ -101,4 +101,15 @@ class Vendor extends CActiveRecord
 	{
 		return parent::model($className);
 	}
+
+    public function toArray(){
+        $vendor = $this->attributes;
+        if(isset($this->vendorComodities) && (count($this->vendorComodities) > 0)){
+            $vendor['commodities'] = array();
+            foreach($this->vendorComodities as $commodity)
+                array_push($vendor['commodities'], $commodity->toArray());
+
+        }
+        return $vendor;
+    }
 }
