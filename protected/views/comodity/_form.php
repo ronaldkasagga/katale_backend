@@ -13,7 +13,8 @@
 	// There is a call to performAjaxValidation() commented in generated controller code.
 	// See class documentation of CActiveForm for details on this.
 	'enableAjaxValidation'=>false,
-)); ?>
+));
+?>
 
 	<p class="note">Fields with <span class="required">*</span> are required.</p>
 
@@ -27,7 +28,7 @@
 
 	<div class="row">
 		<?php echo $form->labelEx($model,'unit_id'); ?>
-		<?php echo $form->textField($model,'unit_id'); ?>
+		<?php echo $form->dropDownList($model,'unit_id', CHtml::listData($units, 'id', 'name')); ?>
 		<?php echo $form->error($model,'unit_id'); ?>
 	</div>
 

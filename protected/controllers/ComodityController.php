@@ -73,9 +73,11 @@ class ComodityController extends Controller
 			if($model->save())
 				$this->redirect(array('view','id'=>$model->id));
 		}
+        $units = Unit::model()->findAll();
 
 		$this->render('create',array(
 			'model'=>$model,
+			'units'=>$units,
 		));
 	}
 
